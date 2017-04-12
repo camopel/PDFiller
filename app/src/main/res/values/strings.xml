@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PDFiller</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Block_Index">Block_Index</string>
+    <string name="Field_Index">Field_Index</string>
+    <string name="Form_Index">Form_Index</string>
+
+    <string name="title_activity_review">Review</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="Menu_Delivery">Delivery</string>
+    <string name="Menu_Review">Review</string>
+</resources>
